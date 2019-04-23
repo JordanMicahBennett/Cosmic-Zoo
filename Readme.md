@@ -1,4 +1,4 @@
-I seek to construct a large list of pre-trained models here
+I seek to construct a large, cosmic list of pre-trained models below:
 
 1. [ModelDepot.io](https://modeldepot.io/browse)
 
