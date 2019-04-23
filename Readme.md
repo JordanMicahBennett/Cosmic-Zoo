@@ -10,4 +10,6 @@ I seek to construct a large, cosmic list of pre-trained models below:
 
 5. [Keras Pre-Trained Models](https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/)
 
-6. [Model Zoo](https://modelzoo.co/)
+6. [Model Zoo Co](https://modelzoo.co/)
+
+7. [Tensorflow Js](https://github.com/tensorflow/tfjs-models)
