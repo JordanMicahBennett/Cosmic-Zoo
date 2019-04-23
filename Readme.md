@@ -1,15 +1,16 @@
 I seek to construct a large, cosmic list of pre-trained models below:
 
-1. [ModelDepot.io](https://modeldepot.io/browse)
 
-2. [Pretrained.ml](http://pretrained.ml/)
+1. [Model Zoo Co](https://modelzoo.co/)
 
-3. [Caffe Model Zoo](http://caffe.berkeleyvision.org/model_zoo.html)
+2. [ModelDepot.io](https://modeldepot.io/browse)
 
-4. [TensorFlow Models](https://github.com/tensorflow/models)
+3. [Pretrained.ml](http://pretrained.ml/)
 
-5. [Keras Pre-Trained Models](https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/)
+4. [Caffe Model Zoo](http://caffe.berkeleyvision.org/model_zoo.html)
 
-6. [Model Zoo Co](https://modelzoo.co/)
+5. [TensorFlow Models](https://github.com/tensorflow/models)
+
+6. [Keras Pre-Trained Models](https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/)
 
 7. [Tensorflow Js](https://github.com/tensorflow/tfjs-models)
